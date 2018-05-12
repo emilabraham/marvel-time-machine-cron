@@ -1,3 +1,5 @@
+I cloned this and followed the tutorial on [cronjobs in
+firebase](https://firebase.googleblog.com/2017/03/how-to-schedule-cron-jobs-with-cloud.html).
 # App Engine Cron with Google Cloud Functions for Firebase
 Google App Engine provides a Cron service. Using this service for scheduling and
 Google Cloud Pub/Sub for distributed messaging, you can build an application to
